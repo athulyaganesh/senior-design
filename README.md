@@ -10,7 +10,7 @@
 ## Co-op Work Experience
 
 ### Embedded Software Engineering Intern
-#### Alcatel-Lucent Nokia, Boston, MA
+#### Nokia, Boston, MA
 *May 2023 – Present*
 
 - Developed an advanced Ethernet OAM Testbench for precise validation and industry-standard compliance.
